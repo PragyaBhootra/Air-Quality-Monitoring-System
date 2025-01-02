@@ -40,9 +40,5 @@ This project implements a Convolutional Neural Network (CNN) to recognize handwr
 
 ---
 
-## **Setup Instructions**
-1. Clone the repository or download the project files.
-2. Install the required libraries:
-   ```bash
-   pip install tensorflow matplotlib
+
 
