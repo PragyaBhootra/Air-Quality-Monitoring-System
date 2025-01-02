@@ -72,8 +72,7 @@ Include or link a circuit diagram that shows how to connect the MQ135 sensor, LC
 
 ---
 
-## **License**
-This project is open-source. Feel free to modify and use it for personal or educational purposes.
+
 
 ---
 
